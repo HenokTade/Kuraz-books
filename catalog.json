@@ -1,0 +1,475 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "g1-gez",
+      "grade": 1,
+      "subject": "gez",
+      "language": "am",
+      "pdfUrl": "grade%201/%E1%88%8D%E1%88%B3%E1%8A%90%20%E1%8C%8D%E1%8B%95%E1%8B%9D.pdf",
+      "pages": 54,
+      "sizeBytes": 2734790
+    },
+    {
+      "id": "g1-fai",
+      "grade": 1,
+      "subject": "fai",
+      "language": "am",
+      "pdfUrl": "grade%201/%E1%88%98%E1%88%A0%E1%88%A8%E1%89%B0%20%E1%88%90%E1%8B%AD%E1%88%9B%E1%8A%96%E1%89%B5.pdf",
+      "pages": 42,
+      "sizeBytes": 3563462
+    },
+    {
+      "id": "g1-lit",
+      "grade": 1,
+      "subject": "lit",
+      "language": "am",
+      "pdfUrl": "grade%201/%E1%88%A5%E1%88%AD%E1%8B%90%E1%89%B0%20%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95.pdf",
+      "pages": 44,
+      "sizeBytes": 3312258
+    },
+    {
+      "id": "g1-bib",
+      "grade": 1,
+      "subject": "bib",
+      "language": "am",
+      "pdfUrl": "grade%201/%E1%89%85%E1%8B%B1%E1%88%B3%E1%89%B5%20%E1%88%98%E1%8D%85%E1%88%80%E1%8D%8D%E1%89%B5%20%E1%8C%A5%E1%8A%93%E1%89%B5.pdf",
+      "pages": 76,
+      "sizeBytes": 18039142
+    },
+    {
+      "id": "g1-eth",
+      "grade": 1,
+      "subject": "eth",
+      "language": "am",
+      "pdfUrl": "grade%201/%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%93%E1%8B%8A%20%E1%88%B5%E1%8A%90%E1%88%9D%E1%8C%8D%E1%89%A3%E1%88%AD.pdf",
+      "pages": 46,
+      "sizeBytes": 3085629
+    },
+    {
+      "id": "g2-gez",
+      "grade": 2,
+      "subject": "gez",
+      "language": "am",
+      "pdfUrl": "grade%202/%E1%88%8D%E1%88%B3%E1%8A%90%20%E1%8C%8D%E1%8B%95%E1%8B%9D.pdf",
+      "pages": 46,
+      "sizeBytes": 1618793
+    },
+    {
+      "id": "g2-fai",
+      "grade": 2,
+      "subject": "fai",
+      "language": "am",
+      "pdfUrl": "grade%202/%E1%88%98%E1%88%A0%E1%88%A8%E1%89%B0%20%E1%88%90%E1%8B%AD%E1%88%9B%E1%8A%96%E1%89%B5.pdf",
+      "pages": 40,
+      "sizeBytes": 2509856
+    },
+    {
+      "id": "g2-lit",
+      "grade": 2,
+      "subject": "lit",
+      "language": "am",
+      "pdfUrl": "grade%202/%E1%88%A5%E1%88%AD%E1%8B%90%E1%89%B0%20%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95.pdf",
+      "pages": 44,
+      "sizeBytes": 1811043
+    },
+    {
+      "id": "g2-bib",
+      "grade": 2,
+      "subject": "bib",
+      "language": "am",
+      "pdfUrl": "grade%202/%E1%89%85%E1%8B%B1%E1%88%B3%E1%89%B5%20%E1%88%98%E1%8D%85%E1%88%80%E1%8D%8D%E1%89%B5%20%E1%8C%A5%E1%8A%93%E1%89%B5.pdf",
+      "pages": 62,
+      "sizeBytes": 11092068
+    },
+    {
+      "id": "g2-eth",
+      "grade": 2,
+      "subject": "eth",
+      "language": "am",
+      "pdfUrl": "grade%202/%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%93%E1%8B%8A%20%E1%88%B5%E1%8A%90%E1%88%9D%E1%8C%8D%E1%89%A3%E1%88%AD.pdf",
+      "pages": 36,
+      "sizeBytes": 2277129
+    },
+    {
+      "id": "g2-his",
+      "grade": 2,
+      "subject": "his",
+      "language": "am",
+      "pdfUrl": "grade%202/%E1%8B%A8%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95%20%E1%89%B3%E1%88%AA%E1%8A%AD.pdf",
+      "pages": 26,
+      "sizeBytes": 1628966
+    },
+    {
+      "id": "g3-gez",
+      "grade": 3,
+      "subject": "gez",
+      "language": "am",
+      "pdfUrl": "grade%203/%E1%88%8D%E1%88%B3%E1%8A%90%20%E1%8C%8D%E1%8B%95%E1%8B%9D.pdf",
+      "pages": 34,
+      "sizeBytes": 1000984
+    },
+    {
+      "id": "g3-fai",
+      "grade": 3,
+      "subject": "fai",
+      "language": "am",
+      "pdfUrl": "grade%203/%E1%88%98%E1%88%A0%E1%88%A8%E1%89%B0%20%E1%88%90%E1%8B%AD%E1%88%9B%E1%8A%96%E1%89%B5.pdf",
+      "pages": 33,
+      "sizeBytes": 963693
+    },
+    {
+      "id": "g3-lit",
+      "grade": 3,
+      "subject": "lit",
+      "language": "am",
+      "pdfUrl": "grade%203/%E1%88%A5%E1%88%AD%E1%8B%90%E1%89%B0%20%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95.pdf",
+      "pages": 28,
+      "sizeBytes": 3152027
+    },
+    {
+      "id": "g3-bib",
+      "grade": 3,
+      "subject": "bib",
+      "language": "am",
+      "pdfUrl": "grade%203/%E1%89%85%E1%8B%B1%E1%88%B3%E1%89%B5%20%E1%88%98%E1%8D%85%E1%88%80%E1%8D%8D%E1%89%B5%20%E1%8C%A5%E1%8A%93%E1%89%B5.pdf",
+      "pages": 86,
+      "sizeBytes": 3855336
+    },
+    {
+      "id": "g3-eth",
+      "grade": 3,
+      "subject": "eth",
+      "language": "am",
+      "pdfUrl": "grade%203/%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%93%E1%8B%8A%20%E1%88%B5%E1%8A%90%E1%88%9D%E1%8C%8D%E1%89%A3%E1%88%AD.pdf",
+      "pages": 44,
+      "sizeBytes": 2368587
+    },
+    {
+      "id": "g3-his",
+      "grade": 3,
+      "subject": "his",
+      "language": "am",
+      "pdfUrl": "grade%203/%E1%8B%A8%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95%20%E1%89%B3%E1%88%AA%E1%8A%AD.pdf",
+      "pages": 39,
+      "sizeBytes": 13450078
+    },
+    {
+      "id": "g4-gez",
+      "grade": 4,
+      "subject": "gez",
+      "language": "am",
+      "pdfUrl": "grade%204/%E1%88%8D%E1%88%B3%E1%8A%90%20%E1%8C%8D%E1%8B%95%E1%8B%9D.pdf",
+      "pages": 36,
+      "sizeBytes": 1263788
+    },
+    {
+      "id": "g4-fai",
+      "grade": 4,
+      "subject": "fai",
+      "language": "am",
+      "pdfUrl": "grade%204/%E1%88%98%E1%88%A0%E1%88%A8%E1%89%B0%20%E1%88%83%E1%8B%AD%E1%88%9B%E1%8A%96%E1%89%B5.pdf",
+      "pages": 70,
+      "sizeBytes": 2534602
+    },
+    {
+      "id": "g4-lit",
+      "grade": 4,
+      "subject": "lit",
+      "language": "am",
+      "pdfUrl": "grade%204/%E1%88%A5%E1%88%AD%E1%8B%90%E1%89%B0%20%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95.pdf",
+      "pages": 35,
+      "sizeBytes": 665075
+    },
+    {
+      "id": "g4-bib",
+      "grade": 4,
+      "subject": "bib",
+      "language": "am",
+      "pdfUrl": "grade%204/%E1%89%85%E1%8B%B1%E1%88%B3%E1%89%B5%20%E1%88%98%E1%8D%85%E1%88%80%E1%8D%8D%E1%89%B5%20%E1%8C%A5%E1%8A%93%E1%89%B5.pdf",
+      "pages": 47,
+      "sizeBytes": 706389
+    },
+    {
+      "id": "g4-eth",
+      "grade": 4,
+      "subject": "eth",
+      "language": "am",
+      "pdfUrl": "grade%204/%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%93%E1%8B%8A%20%E1%88%A5%E1%8A%90%20%E1%88%9D%E1%8C%8D%E1%89%A3%E1%88%AD.pdf",
+      "pages": 46,
+      "sizeBytes": 2137413
+    },
+    {
+      "id": "g4-his",
+      "grade": 4,
+      "subject": "his",
+      "language": "am",
+      "pdfUrl": "grade%204/%E1%8B%A8%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95%20%E1%89%B3%E1%88%AA%E1%8A%AD.pdf",
+      "pages": 26,
+      "sizeBytes": 532597
+    },
+    {
+      "id": "g5-gez",
+      "grade": 5,
+      "subject": "gez",
+      "language": "am",
+      "pdfUrl": "grade%205/%E1%88%8D%E1%88%B3%E1%8A%90%20%E1%8C%8D%E1%8B%95%E1%8B%9D.pdf",
+      "pages": 52,
+      "sizeBytes": 1588803
+    },
+    {
+      "id": "g5-fai",
+      "grade": 5,
+      "subject": "fai",
+      "language": "am",
+      "pdfUrl": "grade%205/%E1%88%98%E1%88%A0%E1%88%A8%E1%89%B0%20%E1%88%80%E1%8B%AD%E1%88%9B%E1%8A%96%E1%89%B5.pdf",
+      "pages": 23,
+      "sizeBytes": 1441122
+    },
+    {
+      "id": "g5-lit",
+      "grade": 5,
+      "subject": "lit",
+      "language": "am",
+      "pdfUrl": "grade%205/%E1%88%A5%E1%88%AD%E1%8B%90%E1%89%B0%20%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95.pdf",
+      "pages": 25,
+      "sizeBytes": 532823
+    },
+    {
+      "id": "g5-bib",
+      "grade": 5,
+      "subject": "bib",
+      "language": "am",
+      "pdfUrl": "grade%205/%E1%89%85%E1%8B%B1%E1%88%B3%E1%89%B5%20%E1%88%98%E1%8C%BB%E1%88%95%E1%8D%8D%E1%89%B5.pdf",
+      "pages": 48,
+      "sizeBytes": 13831821
+    },
+    {
+      "id": "g5-eth",
+      "grade": 5,
+      "subject": "eth",
+      "language": "am",
+      "pdfUrl": "grade%205/%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%93%E1%8B%8A%20%E1%88%B5%E1%8A%90%E1%88%9D%E1%8C%8D%E1%89%A3%E1%88%AD.pdf",
+      "pages": 50,
+      "sizeBytes": 1419933
+    },
+    {
+      "id": "g5-his",
+      "grade": 5,
+      "subject": "his",
+      "language": "am",
+      "pdfUrl": "grade%205/%E1%8B%A8%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95%20%E1%89%B3%E1%88%AA%E1%8A%AD.pdf",
+      "pages": 64,
+      "sizeBytes": 2333864
+    },
+    {
+      "id": "g6-gez",
+      "grade": 6,
+      "subject": "gez",
+      "language": "am",
+      "pdfUrl": "grade%206/%E1%88%8D%E1%88%B3%E1%8A%90%20%E1%8C%8D%E1%8B%95%E1%8B%9D.pdf",
+      "pages": 58,
+      "sizeBytes": 1345766
+    },
+    {
+      "id": "g6-fai",
+      "grade": 6,
+      "subject": "fai",
+      "language": "am",
+      "pdfUrl": "grade%206/%E1%88%98%E1%88%A0%E1%88%A8%E1%89%B0%20%E1%88%90%E1%8B%AD%E1%88%9B%E1%8A%96%E1%89%B5.pdf",
+      "pages": 86,
+      "sizeBytes": 1180722
+    },
+    {
+      "id": "g6-lit",
+      "grade": 6,
+      "subject": "lit",
+      "language": "am",
+      "pdfUrl": "grade%206/%E1%88%A5%E1%88%AD%E1%8B%90%E1%89%B0%20%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95.pdf",
+      "pages": 68,
+      "sizeBytes": 1866244
+    },
+    {
+      "id": "g6-bib",
+      "grade": 6,
+      "subject": "bib",
+      "language": "am",
+      "pdfUrl": "grade%206/%E1%89%85%E1%8B%B1%E1%88%B3%E1%89%B5%20%E1%88%98%E1%8D%85%E1%88%80%E1%8D%8D%E1%89%B5%20%E1%8C%A5%E1%8A%93%E1%89%B5.pdf",
+      "pages": 78,
+      "sizeBytes": 1736535
+    },
+    {
+      "id": "g6-eth",
+      "grade": 6,
+      "subject": "eth",
+      "language": "am",
+      "pdfUrl": "grade%206/%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%93%E1%8B%8A%20%E1%88%B5%E1%8A%90%E1%88%9D%E1%8C%8D%E1%89%A3%E1%88%AD.pdf",
+      "pages": 64,
+      "sizeBytes": 1575107
+    },
+    {
+      "id": "g6-his",
+      "grade": 6,
+      "subject": "his",
+      "language": "am",
+      "pdfUrl": "grade%206/%E1%8B%A8%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95%20%E1%89%B3%E1%88%AA%E1%8A%AD.pdf",
+      "pages": 54,
+      "sizeBytes": 1485527
+    },
+    {
+      "id": "g7-gez",
+      "grade": 7,
+      "subject": "gez",
+      "language": "am",
+      "pdfUrl": "grade%207/%E1%88%8D%E1%88%B3%E1%8A%90%20%E1%8C%8D%E1%8B%95%E1%8B%9D.pdf",
+      "pages": 68,
+      "sizeBytes": 1599065
+    },
+    {
+      "id": "g7-fai",
+      "grade": 7,
+      "subject": "fai",
+      "language": "am",
+      "pdfUrl": "grade%207/%E1%88%98%E1%88%A0%E1%88%A8%E1%89%B0%20%E1%88%90%E1%8B%AD%E1%88%9B%E1%8A%96%E1%89%B5.pdf",
+      "pages": 52,
+      "sizeBytes": 1245548
+    },
+    {
+      "id": "g7-lit",
+      "grade": 7,
+      "subject": "lit",
+      "language": "am",
+      "pdfUrl": "grade%207/%E1%88%A5%E1%88%AD%E1%8B%90%E1%89%B0%20%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95.pdf",
+      "pages": 142,
+      "sizeBytes": 3298582
+    },
+    {
+      "id": "g7-bib",
+      "grade": 7,
+      "subject": "bib",
+      "language": "am",
+      "pdfUrl": "grade%207/%E1%89%85%E1%8B%B1%E1%88%B3%E1%89%B5%20%E1%88%98%E1%8D%85%E1%88%80%E1%8D%8D%E1%89%B5%20%E1%8C%A5%E1%8A%93%E1%89%B5.pdf",
+      "pages": 94,
+      "sizeBytes": 2988321
+    },
+    {
+      "id": "g7-eth",
+      "grade": 7,
+      "subject": "eth",
+      "language": "am",
+      "pdfUrl": "grade%207/%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%93%E1%8B%8A%20%E1%88%B5%E1%8A%90%E1%88%9D%E1%8C%8D%E1%89%A3%E1%88%AD.pdf",
+      "pages": 66,
+      "sizeBytes": 2095520
+    },
+    {
+      "id": "g7-his",
+      "grade": 7,
+      "subject": "his",
+      "language": "am",
+      "pdfUrl": "grade%207/%E1%8B%A8%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95%20%E1%89%B3%E1%88%AA%E1%8A%AD.pdf",
+      "pages": 104,
+      "sizeBytes": 3431182
+    },
+    {
+      "id": "g8-gez",
+      "grade": 8,
+      "subject": "gez",
+      "language": "am",
+      "pdfUrl": "grade%208/%E1%88%8D%E1%88%B3%E1%8A%90%20%E1%8C%8D%E1%8B%95%E1%8B%9D.pdf",
+      "pages": 50,
+      "sizeBytes": 835445
+    },
+    {
+      "id": "g8-lit",
+      "grade": 8,
+      "subject": "lit",
+      "language": "am",
+      "pdfUrl": "grade%208/%E1%88%A5%E1%88%AD%E1%8B%90%E1%89%B0%20%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95.pdf",
+      "pages": 45,
+      "sizeBytes": 4075822
+    },
+    {
+      "id": "g8-bib",
+      "grade": 8,
+      "subject": "bib",
+      "language": "am",
+      "pdfUrl": "grade%208/%E1%89%85%E1%8B%B1%E1%88%B3%E1%89%B5%20%E1%88%98%E1%8D%85%E1%88%80%E1%8D%8D%E1%89%B5%20%E1%8C%A5%E1%8A%93%E1%89%B5.pdf",
+      "pages": 50,
+      "sizeBytes": 1332739
+    },
+    {
+      "id": "g8-sal",
+      "grade": 8,
+      "subject": "sal",
+      "language": "am",
+      "pdfUrl": "grade%208/%E1%8A%90%E1%8C%88%E1%88%A8%20%E1%8B%B5%E1%8A%85%E1%8A%90%E1%89%B5.pdf",
+      "pages": 23,
+      "sizeBytes": 1866391
+    },
+    {
+      "id": "g8-eth",
+      "grade": 8,
+      "subject": "eth",
+      "language": "am",
+      "pdfUrl": "grade%208/%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%93%E1%8B%8A%20%E1%88%B5%E1%8A%90%E1%88%9D%E1%8C%8D%E1%89%A3%E1%88%AD.pdf",
+      "pages": 29,
+      "sizeBytes": 720571
+    },
+    {
+      "id": "g8-his",
+      "grade": 8,
+      "subject": "his",
+      "language": "am",
+      "pdfUrl": "grade%208/%E1%8B%A8%E1%89%A4%E1%89%B0%20%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95%20%E1%89%B3%E1%88%AA%E1%8A%AD.pdf",
+      "pages": 37,
+      "sizeBytes": 3723735
+    },
+    {
+      "id": "g9-lit",
+      "grade": 9,
+      "subject": "lit",
+      "language": "am",
+      "pdfUrl": "grade%209/%E1%88%A5%E1%88%AD%E1%8B%93%E1%89%B0%20%E1%89%A4%E1%89%B0%20%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95.pdf",
+      "pages": 51,
+      "sizeBytes": 914386
+    },
+    {
+      "id": "g9-bib",
+      "grade": 9,
+      "subject": "bib",
+      "language": "am",
+      "pdfUrl": "grade%209/%E1%89%85%E1%8B%B1%E1%88%B3%E1%89%B5%20%E1%88%98%E1%8D%85%E1%88%80%E1%8D%8D%E1%89%B5%20%E1%8C%A5%E1%8A%93%E1%89%B5.pdf",
+      "pages": 38,
+      "sizeBytes": 777671
+    },
+    {
+      "id": "g10-mgt",
+      "grade": 10,
+      "subject": "mgt",
+      "language": "am",
+      "pdfUrl": "grade%2010/%E1%88%A5%E1%88%AB%20%E1%8A%A0%E1%88%98%E1%88%AB%E1%88%AD.pdf",
+      "pages": 38,
+      "sizeBytes": 1227728
+    },
+    {
+      "id": "g10-lit",
+      "grade": 10,
+      "subject": "lit",
+      "language": "am",
+      "pdfUrl": "grade%2010/%E1%88%A5%E1%88%AD%E1%8B%90%E1%89%B0%20%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95.pdf",
+      "pages": 58,
+      "sizeBytes": 715198
+    },
+    {
+      "id": "g10-his",
+      "grade": 10,
+      "subject": "his",
+      "language": "am",
+      "pdfUrl": "grade%2010/%E1%8B%A8%E1%8A%A2%E1%89%B5%E1%8B%AE%E1%8C%B5%E1%8B%AB%20%E1%89%A4%E1%89%B0%20%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95%20%E1%89%B3%E1%88%AA%E1%8A%AD.pdf",
+      "pages": 38,
+      "sizeBytes": 1874599,
+      "titleAm": "የኢትዮጵያ ቤተ ክርስቲያን ታሪክ",
+      "title": "Ethiopian Church History"
+    }
+  ]
+}
